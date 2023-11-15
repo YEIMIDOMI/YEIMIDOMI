@@ -1,4 +1,4 @@
-# <img src="https://github.com/YEIMIDOMI/YEIMIDOMI/blob/a5880331fa5d9ee6123594fb522100df0b4ad4bf/file.jpg" width="80"> Hola, mi nombre es Yeimi Dominguez 👋
+# <img src="https://github.com/YEIMIDOMI/YEIMIDOMI/blob/724a887b6d8bf67e346e28821c7f8a7de64c54d4/Avatar-Maker.png" width="80"> Hola, mi nombre es Yeimi Dominguez 👋
 ### Tecnologo en análisis y desarrollo de software
  
 ![Se siente diciembre](https://github.com/YEIMIDOMI/YEIMIDOMI/blob/31ec5709c57aacaee215f832827bfb6159466a02/SL-103020-37400-03.jpg)
