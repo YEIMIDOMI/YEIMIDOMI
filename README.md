@@ -1,7 +1,7 @@
 # <img src="https://github.com/eaflorez/eaflorez/blob/c080f9f82427eeb21af80d39ce641d0123f89bd4/avatar.png" width="50"> Hola, mi nombre es Yeimi Dominguez 👋
 ### Tecnologo en análisis y desarrollo de software
  
-![Se siente diciembre](https://github.com/eaflorez/eaflorez/blob/4d997db477b87bcda9c1a5d612391bde5606f41f/se%20siente.png)
+![Se siente diciembre](https://github.com/YEIMIDOMI/YEIMIDOMI/blob/31ec5709c57aacaee215f832827bfb6159466a02/SL-103020-37400-03.jpg)
  
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUzeogs6HT0aHaQ8dkl5znA)
 
